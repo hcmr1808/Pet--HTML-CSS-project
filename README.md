@@ -1,1 +1,2 @@
-Projeto de HTML e CSS
+Pet+
+Desenvolvido com HTML/CSS
