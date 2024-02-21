@@ -1,2 +1,3 @@
 Pet+
-Desenvolvido com HTML/CSS
+Desenvolvido com HTML/CSS para desktop
+
